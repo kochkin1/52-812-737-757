@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Window</string>
+    <string name="argentina">Аргентина</string>
+    <string name="brasilia">Бразилия</string>
+    <string name="chili">Чили</string>
+    <string name="columbia">Колумбия</string>
+    <string name="urugvay">Уругвай</string>
+    <string name="soprano">Сопрано</string>
+</resources>
